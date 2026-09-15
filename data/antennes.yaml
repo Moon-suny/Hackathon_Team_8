@@ -1,0 +1,8 @@
+# Fichier de configuration du dataset - généré par starter_antennes.py
+path: C:\Users\maxim\Documents\Isep\Hackaton_ANFR\Hackathon_Team_8\data
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+names: ['antenne']
